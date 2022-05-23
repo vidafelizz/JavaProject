@@ -6,6 +6,6 @@ public class StringExam {
 		System.out.println(str);
 		
 		str = 123 + "C"; // 숫자 + 문자열 
-		System.out.println(str);
+		System.out.println(str); 
 	}
 }
