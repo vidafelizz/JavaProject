@@ -8,7 +8,7 @@ public class HelloExam {
 		return n+m; // return은 결과값을 호출한 쪽으로 반환한다.
 	}
 	public static void main(String[] args) {
-		int i=200;
+		int i=20;
 		int s;
 		char a;
 		
