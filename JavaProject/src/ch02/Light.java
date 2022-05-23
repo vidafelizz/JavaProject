@@ -8,6 +8,6 @@ public class Light {
 		lightspeed = 30000L;
 		distance = lightspeed*365*24*60*609; 
 		
-		System.out.println("빛이 1년 동안 가는 거리 : " + distance);
+		System.out.println("빛이 1년 동안 가는 거리 : " + distance + "km");
 	}
 }
