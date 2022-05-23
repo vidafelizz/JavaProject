@@ -13,7 +13,7 @@ public class HelloExam {
 		char a;
 		
 		s = sum(i,10);
-		a = '?';
+		a = '?'; 
 		
 		System.out.println(a);
 		System.out.println("Hello");
