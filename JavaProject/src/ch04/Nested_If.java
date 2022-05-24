@@ -2,7 +2,7 @@ package ch04;
 
 import java.util.Scanner;
 
-public class Nested_If {
+public class Nested_If { 
 	public static void main(String[] args) {
 		int a, b;
 		Scanner sc = new Scanner(System.in);
