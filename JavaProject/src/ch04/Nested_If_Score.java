@@ -6,7 +6,7 @@ public class Nested_If_Score {
 	public static void main(String[] args) {
 		int score = 0;
 		char grade = ' ';
-		char level = '0'; // A0, B0 문자로 처리
+		char level = '0'; // A+, B- 문자로 처리
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Java 점수 : ");
