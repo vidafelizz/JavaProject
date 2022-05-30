@@ -22,6 +22,6 @@ public class Array2Point2 {
 			}
 			avg = sum/(float)score[i].length; // 평균 계산
 			System.out.printf("%d\t%.1f%n", sum, avg);
-		}
+		} 
 	}
 }
