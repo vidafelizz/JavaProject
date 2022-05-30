@@ -8,7 +8,7 @@ public class ArrayString {
 		}
 		System.out.println();
 		
-		// 확장 for문(향상된 for문)
+		// for-each문 => 확장 for문(향상된 for문)
 		for(String ss : str) { // ss는 개별변수 : str은 집합변수
 			System.out.println(ss);
 		}
