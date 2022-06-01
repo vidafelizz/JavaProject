@@ -8,4 +8,4 @@ public class TelevisionTest {
 		tv.onOff = true;
 		System.out.println("TV의 채널은 " + tv.channel + "이고, 볼륨은 " + tv.volume + "입니다.");
 	}
-}
+} 
