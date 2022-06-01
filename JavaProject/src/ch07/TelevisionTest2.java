@@ -19,5 +19,5 @@ public class TelevisionTest2 {
 		yourTv.onOff = false;
 		System.out.println("너의 TV 채널은 " + yourTv.channel
 				+ "이고 볼륜은 " + yourTv.volume + "입니다.");
-	}
+	} 
 }
