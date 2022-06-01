@@ -20,7 +20,7 @@ public class Employee {
 		bonus =basic*3;
 		total = basic + bonus;
 		tax = (int)(total*0.333);
-		salary = total-tax;
+		salary = total-tax; 
 	}
 	public void print() {
 		System.out.println("이름\t부서\t직위\t기본급\t보너스\t총액\t세액\t실수령액\t(단위:만원)");
