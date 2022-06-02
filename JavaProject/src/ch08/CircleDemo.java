@@ -36,5 +36,5 @@ public class CircleDemo {
 		
 		Circle c3 = new Circle("노랑");
 		c3.printf();
-	}
+	} 
 }
